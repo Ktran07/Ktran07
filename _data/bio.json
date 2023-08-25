@@ -3,9 +3,9 @@
     "name": "Kevin Tran",
     "label": "Student",
     "picture": "",
-    "email": "molly@hawaii.edu",
+    "email": "ktran7@hawaii.edu",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "website": "https://ktran07.github.io/",
     "summary": "I am studying for a BBA in Management Information Systems at the University of Hawaii at Mānoa. I expect to graduate in Fall, 2024.",
     "location": {
       "address": "",
@@ -17,23 +17,8 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Ktran07",
+        "url": "https://github.com/Ktran07"
       }
     ]
   },
@@ -46,12 +31,6 @@
     },
     {
       "name": "Gaming"
-    },
-    {
-      "name": ""
-    },
-    {
-      "name": ""
     }
   ],
   "skills": [
