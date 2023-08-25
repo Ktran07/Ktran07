@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "",
     "email": "ktran7@hawaii.edu",
-    "phone": "808-333-4444",
+    "phone": "",
     "website": "https://ktran07.github.io/",
     "summary": "I am studying for a BBA in Management Information Systems at the University of Hawaii at Mānoa. I expect to graduate in Fall, 2024.",
     "location": {
@@ -37,12 +37,12 @@
     {
       "name": "Languages and Frameworks",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ]
     },
     {
