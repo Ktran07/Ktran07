@@ -10,7 +10,7 @@ labels:
 ---
 WOD 5.1 aimed to make the html file cleaner and better organized by utilizing javascript to remove some of the hard coding texts and images of the html file and instead place those codes onto the javascript file within the same directory. 
 
-WOD 5.1 details: https://dport96.github.io/ITM352/morea/050.variables_data_types/experience-SmartPhoneProducts1_variables.html
+WOD 5.1 details: <url> https://dport96.github.io/ITM352/morea/050.variables_data_types/experience-SmartPhoneProducts1_variables.html </url>
 
 This WOD was straightforward since I only had to declare variables for the texts and images, and I transferred those codes to the newly created javascript file. In the final step, I linked my html file to the javascript file, where I was able to reduce the length of my code in the html file by taking off the hard coding texts and images out of the html file.
 
